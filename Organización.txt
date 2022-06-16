@@ -1,3 +1,4 @@
+Lider del Grupo: Diego Portilla
 1.Grupo 5 conversión de sufijo a prefijo 
 2.Grupo 9 conversión de sufijo a postfijo
-3.Grupo 2 estructura , proceso suma y validación
+3.Grupo 2 estructura , proceso matematica y validación
