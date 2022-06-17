@@ -1,4 +1,21 @@
 Lider del Grupo: Diego Portilla
-1.Grupo 5 conversión de sufijo a prefijo 
-2.Grupo 9 conversión de sufijo a postfijo
-3.Grupo 2 estructura , proceso matematica y validación
+				Grupo 2:
+Diego Portilla
+-Clase arbol binario
+-Menu
+-Proyecto final
+Darwin Valdiviezo:
+-Clase Pila
+-Proceso transformacion infijo
+
+				Grupo 5: 
+Sebastian Arias 
+-Proceso transformacion infijo
+David Escobar
+-Proceso transformacion postifijo
+
+				Grupo 9:
+Michell Yanez
+-Proceso transformacion postifijo
+Erick Ramirez
+-Proceso matematico
