@@ -1,3 +1,17 @@
+/*
+	Universidad de las Fuerzas Armadas "ESPE"
+	Ejemplo de Pilas con memoria dinamica
+	Arias Sebastián, Escobar David, Portilla Diego, Ramírez Erick, Valdiviezo Darwin, Yánez Michelle
+	Fecha de creación: 15/06/2022
+	Fecha de modificación: 16/06/2022
+	Grupo 2
+	Grupo 5
+	Grupo 9
+	https://github.com/ErickRamirezO/Trabajos-Grupo-9
+	https://github.com/DarwinValdiviezo/Polaca-Inversa
+	
+*/
+
 #ifndef POSTFIX_H
 #define POSTFIX_H
 
